@@ -1,0 +1,13 @@
+{
+    "name": "ringo-hbase",
+    "version": "0.1.0",
+    "description": "JavaScript wrapper around the native HBase client library",
+    "keywords": ["hbase"],
+    "author": "Oleg Podsechin (http://github.com/olegp)",
+    "jars": [
+        "jars/hadoop-core.jar",
+        "jars/hbase.jar",
+        "jars/zookeeper.jar"
+    ]
+}
+
